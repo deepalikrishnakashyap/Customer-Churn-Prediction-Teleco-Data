@@ -87,6 +87,6 @@ OR
 
 python churn_prediction.py
 
-Conclusion
+# Conclusion
 
 This project demonstrates the trade-off between model interpretability and predictive power when comparing Linear Regression and Random Forest. The insights can help businesses reduce customer churn through targeted strategies.
