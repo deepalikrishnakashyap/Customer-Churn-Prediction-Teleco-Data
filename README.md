@@ -67,6 +67,8 @@ Scikit-learn (Machine Learning)
 
 # How to Run the Project
 
+Dataset Source : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 Clone this repository:
 
 git clone (https://github.com/deepalikrishnakashyap/Customer-Churn-Prediction-Teleco-Data/tree/main)
