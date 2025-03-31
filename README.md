@@ -69,7 +69,7 @@ Scikit-learn (Machine Learning)
 
 Clone this repository:
 
-git clone https://github.com/your-repo/customer-churn-prediction.git
+git clone (https://github.com/deepalikrishnakashyap/Customer-Churn-Prediction-Teleco-Data/tree/main)
 
 Navigate to the project directory:
 
